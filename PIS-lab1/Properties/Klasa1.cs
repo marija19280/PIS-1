@@ -10,6 +10,7 @@ namespace PIS_lab1.Properties
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            //bgjdfkshg
         }
     }
 }
