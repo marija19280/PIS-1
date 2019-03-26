@@ -7,5 +7,9 @@ namespace PIS_lab1.Properties
 {
     class Klasa1
     {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World");
+        }
     }
 }
